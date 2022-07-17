@@ -1,2 +1,3 @@
-# kadai
-kadai6-04
+# kadai6-04
+3C情報処理Ⅱの課題
+
